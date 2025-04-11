@@ -12,11 +12,10 @@ This lack of clarity hinders the company's ability to make informed decisions re
 3.	Determine the contribution of different customer segments to revenue.
 4.	Provide actionable insights and recommendations to improve revenue and sales performance by focusing on high-performing areas and addressing underperforming ones.
 ## Step Followed
-Process:
 1. Data Acquisition and Storage:
-	1.1 Data Source Identification: Identify and document the source(s) of the data, including the format and structure.
-	1.2 Data Extraction: Extract the raw data from the identified source(s).
-	1.3 Data Ingestion and Storage: Ingest the extracted data into a relational database management system (RDBMS), specifically MySQL, for structured storage and efficient querying.
+ 1.1 Data Source Identification: Identify and document the source(s) of the data, including the format and structure.
+ 1.2 Data Extraction: Extract the raw data from the identified source(s).
+ 1.3 Data Ingestion and Storage: Ingest the extracted data into a relational database management system (RDBMS), specifically MySQL, for structured storage and efficient querying.
 2. Data Integration and Transformation (ETL):
 	2.1 Database Connection Establishment: Establish a secure and reliable connection between MySQL and Tableau for data access.
 	2.2 Data Extraction (from MySQL to Tableau): Extract the required tables and fields from the MySQL database into Tableau.

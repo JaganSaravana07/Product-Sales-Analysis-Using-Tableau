@@ -13,21 +13,21 @@ This lack of clarity hinders the company's ability to make informed decisions re
 4.	Provide actionable insights and recommendations to improve revenue and sales performance by focusing on high-performing areas and addressing underperforming ones.
 ## Step Followed
 1. Data Acquisition and Storage:
-  a. Data Source Identification: Identify and document the source(s) of the data, including the format and structure.
-  b. Data Extraction: Extract the raw data from the identified source(s).
-  c. Data Ingestion and Storage: Ingest the extracted data into a relational database management system (RDBMS), specifically MySQL, for structured storage and efficient querying.
+- Data Source Identification: Identify and document the source(s) of the data, including the format and structure.
+- Data Extraction: Extract the raw data from the identified source(s).
+- Data Ingestion and Storage: Ingest the extracted data into a relational database management system (RDBMS), specifically MySQL, for structured storage and efficient querying.
 
 2. Data Integration and Transformation (ETL):
-- 2.1 Database Connection Establishment: Establish a secure and reliable connection between MySQL and Tableau for data access.
-- 2.2 Data Extraction (from MySQL to Tableau): Extract the required tables and fields from the MySQL database into Tableau.
-- 2.3 Data Cleansing and Preprocessing: Perform data cleansing operations within Tableau, including handling missing values, correcting inconsistencies, and standardizing formats.
-- 2.4 Data Transformation: Transform the data as needed to facilitate analysis and visualization, such as creating calculated fields, aggregating data, and pivoting tables.
+- Database Connection Establishment: Establish a secure and reliable connection between MySQL and Tableau for data access.
+- Data Extraction (from MySQL to Tableau): Extract the required tables and fields from the MySQL database into Tableau.
+- Data Cleansing and Preprocessing: Perform data cleansing operations within Tableau, including handling missing values, correcting inconsistencies, and standardizing formats.
+- Data Transformation: Transform the data as needed to facilitate analysis and visualization, such as creating calculated fields, aggregating data, and pivoting tables.
 
 3. Data Visualization and Analysis:
-- 3.1 Objective-Driven Visualization Design: Develop individual visualizations (charts, graphs, tables) within Tableau based on the specific objectives of the analysis. Each sheet will focus on a distinct aspect of the data (e.g., revenue by market, sales quantity by product).
-- 3.2 Interactive Dashboard Creation: Combine the individual visualizations into an interactive dashboard, providing a comprehensive overview of the data.
-- 3.3 Dynamic Filtering and Parameterization: Implement interactive filters and parameters (e.g., year and month selection) within the dashboard to enable dynamic exploration of the data.
-- 3.4 Insight Generation and Interpretation: Analyze the visualizations to identify trends, patterns, and anomalies, and derive actionable insights related to revenue, sales, customer behavior, and product performance.
+- Objective-Driven Visualization Design: Develop individual visualizations (charts, graphs, tables) within Tableau based on the specific objectives of the analysis. Each sheet will focus on a distinct aspect of the data (e.g., revenue by market, sales quantity by product).
+- Interactive Dashboard Creation: Combine the individual visualizations into an interactive dashboard, providing a comprehensive overview of the data.
+- Dynamic Filtering and Parameterization: Implement interactive filters and parameters (e.g., year and month selection) within the dashboard to enable dynamic exploration of the data.
+- Insight Generation and Interpretation: Analyze the visualizations to identify trends, patterns, and anomalies, and derive actionable insights related to revenue, sales, customer behavior, and product performance.
 
 ## Dashboard
 <img width="801" alt="Dashboard Image" src="https://github.com/user-attachments/assets/c2d90edd-b5a6-41b1-829b-e7d70e275b9d" />

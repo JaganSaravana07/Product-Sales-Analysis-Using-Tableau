@@ -1,4 +1,4 @@
-# Product-Sales-Analysis-Using-Tableau
+# Product Sales Analysis using Tableau
 ## Problem Statement:
 The company is experiencing fluctuating revenue and sales performance across different markets and product lines. While overall revenue and sales quantity are presented, there's a lack of clarity on the underlying factors driving these fluctuations. Specifically, it's unclear:
 1. Which markets are contributing most significantly to revenue and sales and why? 

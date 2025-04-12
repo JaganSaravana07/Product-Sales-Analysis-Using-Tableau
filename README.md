@@ -29,6 +29,9 @@ This lack of clarity hinders the company's ability to make informed decisions re
 - Dynamic Filtering and Parameterization: Implement interactive filters and parameters (e.g., year and month selection) within the dashboard to enable dynamic exploration of the data.
 - Insight Generation and Interpretation: Analyze the visualizations to identify trends, patterns, and anomalies, and derive actionable insights related to revenue, sales, customer behavior, and product performance.
 
+## ETL Workflow
+![sales Analysis EDA](https://github.com/user-attachments/assets/34175276-1bcf-4af6-a949-2930b18327a3)
+
 ## Dashboard
 <img width="801" alt="Dashboard Image" src="https://github.com/user-attachments/assets/c2d90edd-b5a6-41b1-829b-e7d70e275b9d" />
 

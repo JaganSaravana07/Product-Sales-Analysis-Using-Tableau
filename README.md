@@ -11,7 +11,7 @@ This lack of clarity hinders the company's ability to make informed decisions re
 2.	Understand the trends and patterns in revenue and sales over the years (2017-2020) and identify the potential drivers of these trends.
 3.	Determine the contribution of different customer segments to revenue.
 4.	Provide actionable insights and recommendations to improve revenue and sales performance by focusing on high-performing areas and addressing underperforming ones.
-## Step Followed
+## Steps Followed
 1. Data Acquisition and Storage:
 - Data Source Identification: Identify and document the source(s) of the data, including the format and structure.
 - Data Extraction: Extract the raw data from the identified source(s).
